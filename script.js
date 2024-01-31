@@ -13,7 +13,7 @@ require([
       container: "viewDiv",
       map: map,
       center: [-92.603760,38.573936], // Center of Missouri
-      zoom: 5
+      zoom: 6
     });
 
     // Popup template for the first feature layer
